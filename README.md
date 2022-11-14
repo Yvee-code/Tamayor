@@ -1,7 +1,7 @@
 # Tamayor
 Tamayor_final_activity
 
-Name: Tamayor, Mattheo Yves N
+Name: Tamayor, Mattheo Yves N.
 Program and Block: BSIT3 B1
 
 HOW TO INSTALL:
